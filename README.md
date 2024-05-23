@@ -100,7 +100,7 @@
 
 ### Infra
 
-|<img src="img/Nginx.png" width="70" height="70">|<img src="img/Jenkins.png" width="70" height="70">|<img src="img/AWS EC2.jpg" width="70" height="70">|<img src="img/Docker.png" width="70" height="70">|
+|<img src="img/Nginx (1).svg" width="70" height="70">|<img src="img/Jenkins.png" width="70" height="70">|<img src="img/AWS EC2.jpg" width="70" height="70">|<img src="img/Docker.png" width="70" height="70">|
 |:---:|:---:|:---:|:---:|
 |NGiNX|Jenkins|AWS EC2|Docker|
 
