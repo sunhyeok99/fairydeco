@@ -1,7 +1,7 @@
 # <center><img src="img/logoonlybook.png"  width="90"  height="75" /></center> 동꾸 (동화 꾸미기) 
 ### 동꾸(동화 꾸미기)는 아이가 직접 만들어가는 AI 동화 창작 서비스입니다.
 
-<center>![동화꾸미기메인1.gif](img/동화꾸미기메인1.gif)</center>
+<center><img src = "img/동화꾸미기메인1.gif"/></center>
 
 
 
